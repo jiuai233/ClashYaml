@@ -1,0 +1,13 @@
+.next
+node_modules
+out
+.vercel
+.turbo
+coverage
+.env*.local
+.env
+.env.*
+*.tsbuildinfo
+*.log
+package-lock.json
+yarn.lock
